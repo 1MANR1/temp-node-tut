@@ -1,5 +1,5 @@
 # Run the following code for downloading node modules.
 
-'''JavaScript
+```JavaScript
 npm install
-'''
+```
